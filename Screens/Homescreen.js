@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { StatusBar, Platform, StyleSheet, Alert, Dimensions, ImageBackground, Text, View, Image, TextInput, ActivityIndicator, BackHandler, FlatList, TouchableOpacity, AsyncStorage } from 'react-native';
-import { Drawer, Header, Container, Button, Title, Footer, Left, Right, Body, Content } from 'native-base';
+import { Drawer, Header, Container, Button, Title, Footer, Left,Body, Content } from 'native-base';
 var { width, height } = Dimensions.get('window');
 import Sidebar from './sidebar';
 
