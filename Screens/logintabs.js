@@ -7,7 +7,7 @@
  */
 
 import React, {Component} from 'react';
-import {AsyncStorage,Platform, StyleSheet, Text, View,TouchableOpacity,Image,TextInput,Dimensions} from 'react-native';
+import { Text, View,TouchableOpacity,Image,TextInput,Dimensions} from 'react-native';
 import Toast from 'react-native-simple-toast'; 
 import Prompt from 'react-native-prompt';
 var {width,height}=Dimensions.get('window');
