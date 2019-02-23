@@ -5,7 +5,7 @@ import {StatusBar,
   Text,ScrollView,PixelRatio,TouchableOpacity,
   View,Image,Dimensions,AsyncStorage,TextInput
 } from 'react-native';
-import Toast from 'react-native-simple-toast'; 
+
 import ImagePicker from 'react-native-image-picker';
 
 const instructions = Platform.select({
