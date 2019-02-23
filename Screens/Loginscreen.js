@@ -9,7 +9,6 @@
 import React, {Component} from 'react';
 import {AsyncStorage,Platform, StyleSheet, Text, View,TouchableOpacity,Image,Linking} from 'react-native';
 //import {LoginManager} from 'react-native-fbsdk';
-d
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
   android:
