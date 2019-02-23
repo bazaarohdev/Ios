@@ -6,7 +6,6 @@ import {StatusBar,
   View,Image,Dimensions,AsyncStorage,TextInput
 } from 'react-native';
 
-import ImagePicker from 'react-native-image-picker';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
