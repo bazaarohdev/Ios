@@ -27,7 +27,7 @@ class Sidebar extends Component {
             userPic: null,
             username: null,
             email: null,
-            user_logout_id: null,
+           
             uId:null,            
         };
     }
